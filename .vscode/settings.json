@@ -4,5 +4,9 @@
     "source.fixAll": "always"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "search.exclude": {
+    "": true
+  },
+  "search.useGlobalIgnoreFiles": true
 }
